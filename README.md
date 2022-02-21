@@ -1,2 +1,2 @@
-# Zomato-dataset--EDA-and-feature-engineering
-This is a small EDA project on the Zomato dataset.
+# EDA-and-feature-engineering
+These are small projects on Exploratory data analysis and feature engineering for 5 different datasets.
